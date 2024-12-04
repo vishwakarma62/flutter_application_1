@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Edit-Icon" transform="translate(-254 -340)">
+    <path id="Path" d="M0,0H20V20H0Z" transform="translate(254 340)" fill="none"/>
+    <path id="Path_" data-name="Path " d="M1.667,13.309H2.845l7.762-7.762L9.428,4.369,1.667,12.131Zm1.667,1.667H0V11.44L11.2.244a.833.833,0,0,1,1.178,0L14.732,2.6a.833.833,0,0,1,0,1.178L5.2,13.309ZM10.607,3.191l1.178,1.178,1.178-1.178L11.785,2.012Z" transform="translate(256.5 342.5)" fill="#b8babf"/>
+    <path id="Path_2" data-name="Path " d="M6.667,13.309v1.667H13.75V13.309Z" transform="translate(256.5 342.5)" fill="#b8babf"/>
+    <rect id="Line" width="6.667" height="1.667" rx="0.833" transform="translate(264 355.833)" fill="#c4c4c4"/>
+  </g>
+</svg>

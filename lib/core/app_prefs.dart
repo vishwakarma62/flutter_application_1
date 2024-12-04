@@ -1,0 +1,33 @@
+class Prefs {
+  static const String jwtToken = "jwt_Token";
+  static const String refreshToken = "refresh_Token";
+  static const String email = "USER_EMAIL";
+  static const String countryCode = "COUNTRY_CODE";
+  static const String lastName = "last_NAME";
+  static const String firstName = "first_NAME";
+  static const String userId = "USER_ID";
+  static const String mobile = "MOBILE";
+  static const String password = "PASSWORD";
+  static const String profileImage = "PROFILE_IMAGE";
+  static const String deviceID = "DEVICE_ID";
+  static const String deviceIP = "DEVICE_IP";
+  static const String deviceType = "DEVICE_TYPE";
+  static const String userName = "USER_NAME";
+  static const String supportNumber = "support_number";
+  static const String deviceFCMToken = "DEVICE_FCM_TOKEN";
+  static const String selectLanguage = "SELECT_LANGUAGE";
+  static const String selectLanguageName = "SELECT_LANGUAGE_NAME";
+  static const String provider = "PROVIDER";
+  static const String isLogging = "IS_LOGGING";
+  static const String token = "Token";
+  static const String docID = "DOC_ID";
+  static const String selectedBusiness = "SELECT_BUSINESS";
+  static const String selectedBusinessId = "SELECTED_BUSINESS_ID";
+  static const String selectedBusinessName = "SELECTED_BUSINESS_ID_NAME";
+  static const String selectedBusinessEmail = "SELECTED_BUSINESS_ID_EMAIL";
+  static const String selectedBusinessLogo = "SELECTED_BUSINESS_ID_LOGO";
+  static const String selectedBusinessAddress = "SELECTED_BUSINESS_ADDRESS";
+  static const String selectedBusinessPhone1 = "SELECTED_BUSINESS_PHONE1";
+  static const String selectedBusinessPhone2 = "SELECTED_BUSINESS_PHONE2";
+  static const String selectedBusinessWebsite = "SELECTED_BUSINESS_WEBSITE";
+}

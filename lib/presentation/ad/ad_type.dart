@@ -1,0 +1,4 @@
+enum AdType {
+  interstitial,
+  banner,
+}

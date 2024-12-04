@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Email-Icon" transform="translate(-61 -294)">
+    <path id="Path" d="M0,0H24V24H0Z" transform="translate(61 294)" fill="none"/>
+    <path id="Email-Icon-2" data-name="Email-Icon" d="M18,10a8,8,0,1,0-3.562,6.657l1.11,1.664A10,10,0,1,1,20,10v1.5a3.5,3.5,0,0,1-6.4,1.966A5,5,0,1,1,13,6h2v5.5a1.5,1.5,0,0,0,3,0ZM10,7a3,3,0,1,0,2.121.879A3,3,0,0,0,10,7Z" transform="translate(63 296)" fill="#b8babf"/>
+  </g>
+</svg>

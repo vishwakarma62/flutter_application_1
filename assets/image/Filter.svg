@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Filter" transform="translate(-279 -18)">
+    <g id="Background-Filter-Icon" transform="translate(279 18)">
+      <path id="Vector" d="M0,0H24V24H0Z" fill="none"/>
+    </g>
+    <g id="Filter-2" data-name="Filter">
+      <rect id="Vector-2" data-name="Vector" width="7" height="2" rx="1" transform="translate(284 25)" fill="#fff"/>
+      <rect id="Vector-3" data-name="Vector" width="7" height="2" rx="1" transform="translate(299 35) rotate(180)" fill="#fff"/>
+      <g id="Vector-4" data-name="Vector" transform="translate(293 23)" fill="none" stroke="#fff" stroke-width="2">
+        <rect width="6" height="6" rx="3" stroke="none"/>
+        <rect x="1" y="1" width="4" height="4" rx="2" fill="none"/>
+      </g>
+      <g id="Vector-5" data-name="Vector" transform="translate(290 37) rotate(180)" fill="none" stroke="#fff" stroke-width="2">
+        <rect width="6" height="6" rx="3" stroke="none"/>
+        <rect x="1" y="1" width="4" height="4" rx="2" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

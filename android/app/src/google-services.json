@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "753987270576",
+    "project_id": "poster-vibe",
+    "storage_bucket": "poster-vibe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753987270576:android:9ce1df278ff94dad968875",
+        "android_client_info": {
+          "package_name": "com.postervibe.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753987270576-ug1mde09a6282qrnli6v1q0au4hha5qh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.postervibe.app",
+            "certificate_hash": "76120e34cf2885a263cc5c17691898bf3eea7d61"
+          }
+        },
+        {
+          "client_id": "753987270576-kctgnuo6nveim21ca736i33t3gdvongm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEDvN3X-TeH1Qmf8q2aIs1neYL-jHfz0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753987270576-kctgnuo6nveim21ca736i33t3gdvongm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
